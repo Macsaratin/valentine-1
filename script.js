@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Tên đăng nhập và mật khẩu cố định
         const fixedUsername = "anh_iu_em";
-        const fixedPassword = "11112023";
+        const fixedPassword = "09012024";
 
         if (user === fixedUsername && pass === fixedPassword) {
             window.location.href = "home/index.html"; // Chuyển hướng sau khi đăng nhập thành công
